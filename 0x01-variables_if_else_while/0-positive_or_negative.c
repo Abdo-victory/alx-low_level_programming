@@ -6,7 +6,7 @@
  *
  * Description:positive or negative
  *
- * return:0  (success)
+ * return: 0 (success)
 */
 int main(void)
 {
